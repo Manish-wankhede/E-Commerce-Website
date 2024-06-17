@@ -1,0 +1,2 @@
+# E-Commerce-Website
+The Online E-Commerce Store is a web-based platform developed using PHP and MySQL, designed to facilitate online transactions between buyers and sellers. The platform provides a comprehensive solution for managing products, customers, orders, and payments, ensuring a seamless shopping experience.
